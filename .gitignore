@@ -1,0 +1,89 @@
+classes/
+target/
+*/src/*/java/META-INF
+*/src/META-INF/
+*/src/*/java/META-INF/
+.classpath
+.springBeans
+.project
+.DS_Store
+.settings/
+.idea/*
+out/
+bin/
+intellij/
+build/
+*.log
+*.log.*
+*.iml
+*.ipr
+*.iws
+.gradle/
+atlassian-ide-plugin.xml
+!etc/eclipse/.checkstyle
+.checkstyle
+s101plugin.state
+.attach_pid*
+.~lock.*#
+
+!.idea/checkstyle-idea.xml
+!.idea/externalDependencies.xml
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+
+# Miscellaneous
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+build.sh
+integration-repo
+ivy-cache
+argfile*
+activemq-data/
+classes/
+
+# Log files
+jxl.log
+jmx.log
+derby.log
+
+# Gradle artifacts
+.gradle
+.gradletasknamecache
+/build
+buildSrc/build
+/spring-*/build
+/framework-bom/build
+/integration-tests/build
+/src/asciidoc/build
+spring-test/test-output/
+
+# Maven artifacts
+pom.xml
+target/
+
+# Eclipse artifacts, including WTP generated manifests
+bin
+.classpath
+.project
+.settings
+.springBeans
+spring-*/src/main/java/META-INF/MANIFEST.MF
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+out
+test-output
+atlassian-ide-plugin.xml
+
+# VS Code
+.vscode/
+
+.factorypath
